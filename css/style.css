@@ -121,6 +121,9 @@ font-size:28px;
 .j2{
 	background-color:white;
 }
+.btn{
+	height:50px;
+}
 .btcls{
 	color:#0d526d;
     border:2px solid #0d526d;
@@ -128,7 +131,7 @@ font-size:28px;
 	margin-top:5px;
 	font-size:120%;
 	font-weight:bold;
-	height:50px;
+	height:45px;
 	
 	
 	
